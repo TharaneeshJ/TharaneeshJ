@@ -75,7 +75,6 @@ I am a final-year **B.Tech student specializing in Artificial Intelligence and D
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
 
 </div>
 
