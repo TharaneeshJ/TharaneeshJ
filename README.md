@@ -70,12 +70,13 @@ I am a final-year **B.Tech student specializing in Artificial Intelligence and D
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF9C&icon_color=39FF9C&text_color=6E7681&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF9C&text_color=6E7681&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=39FF9C&text_color=6E7681&hide_title=true" alt="TharaneeshJ's GitHub Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&text_color=6E7681&hide_title=true" alt="Top Languages" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" alt="GitHub Streak" />
 
 </div>
 
