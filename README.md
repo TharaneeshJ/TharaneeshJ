@@ -68,26 +68,24 @@ I am a final-year **B.Tech student specializing in Artificial Intelligence and D
 ### 📈 GitHub Statistics
 
 <p align="left">
+  <!-- Dynamic Typing & Animation Stats Card -->
   <a href="https://github.com/TharaneeshJ">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=false&vCenter=true&width=450&height=40&lines=Building+SaaS+Infrastructure;Analyzing+Complex+Data+Streams;Crafting+Interactive+Interfaces" alt="Typing SVG" />
   </a>
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=8&include_all_commits=true" width="100%" alt="TharaneeshJ's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=8" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=8&include_all_commits=true" height="195" alt="TharaneeshJ's GitHub Stats" />
+  &nbsp;&nbsp;
+  <!-- Top Languages Donut Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=8" height="195" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Streak Monitor -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
