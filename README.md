@@ -1,124 +1,100 @@
-<div align="center">
+# Hi there, I'm Tharaneesh J! 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=120&section=header&text=THARANEESH%20J&fontColor=39FF9C&fontSize=42&fontAlignY=55&desc=B.TECH%20ARTIFICIAL%20INTELLIGENCE%20%26%20DATA%20SCIENCE&descAlignY=80&descColor=6E7681&descSize=15&fontAlign=50" />
+<p align="left">
+  <a href="https://linkedin.com/in/tharaneeshj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="http://tharaneeshj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:tharaneeshj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<br>
+I am a final-year **B.Tech student specializing in Artificial Intelligence and Data Science** with a passion for designing clean code architecture and building robust, multi-modular SaaS applications. I bridge the gap between heavy-load backend infrastructure and intelligent, data-driven workflows.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=39FF9C&center=true&vCenter=true&width=560&height=24&lines=%24+whoami;final-year+student+%7C+ai+%2B+data+science;%24+status;national+finalist+%40+cmr+hackfest+3.0" />
+---
 
-<br><br>
+### 🚀 Quick Overview
+- 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science** at KNCET.
+- 🏆 **National Finalist** at CMR Hackfest 3.0 (Top competitor out of thousands of applicants).
+- 🛠️ Deeply focused on **Data Structures & Algorithms (DSA)**, **OOPs**, and automation workflows.
+- 💬 Ask me about: AI computer vision, low-code automation (n8n), and real-time system architectures.
 
-<a href="https://tharaneeshj.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" height="26"/></a><a href="https://www.linkedin.com/in/tharaneeshj/"><img src="https://img.shields.io/badge/-LINKEDIN-0D1117?style=flat-square" height="26"/></a><a href="mailto:tharaneeshj@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-0D1117?style=flat-square" height="26"/></a>
+---
 
-</div>
+### 🛠️ Tech Stack & Tools
 
-<br>
-
-```
-$ cat about.md
-```
-
-> Final year AI & Data Science undergraduate at Kongunadu College of Engineering and
-> Technology. I care about clean architecture — code that stays legible as it scales,
-> and systems that hold up under real load. Recently spent 36 hours building an
-> IoT product from scratch as a National Finalist at CMR Hackfest 3.0.
-
-<br>
-
-```
-$ ls stack/
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ts,mongodb,git,github,figma&theme=dark" height="48" />
-
-</div>
-
-<div align="center">
-
-<sub>DATA STRUCTURES &nbsp;·&nbsp; OOP &nbsp;·&nbsp; SUPABASE &nbsp;·&nbsp; N8N &nbsp;·&nbsp; EXCEL &nbsp;·&nbsp; CANVA</sub>
-
-</div>
-
-<br>
-
-```
-$ ls projects/
-```
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**takecare-hms**
-`supabase` `typescript`
-
-Web app for daily nutrition and health guidance. Lets elderly users book doctor appointments and attend consultations from home.
-
-</td>
-<td width="50%" valign="top">
-
-**moms-kitchen-qr**
-`excel` `n8n` `typescript`
-
-QR-based table ordering system with automated real-time backend workflows.
-
-[→ repository](https://github.com/TharaneeshJ/Mom-sKitchenRestaurant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**realtime-weapon-detection**
-`opencv` `roboflow` `yolov8`
-
-Real-time detection system identifying weapons from live camera feeds, with instant alert notifications.
-
-</td>
-<td width="50%" valign="top">
-
-**campus-connect**
-`typescript`
-
-Connects college students with alumni for mentorship, networking, and job referrals.
-
-[→ repository](https://github.com/TharaneeshJ/CampusConnect)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" width="48" height="48" alt="n8n" />
+      <br>n8n
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
-```
-$ cat certifications.md
-```
+### 📂 Featured Projects
 
-<table width="100%">
-<tr><td><b>Deloitte Australia</b></td><td>Data Analytics Job Simulation — Forage, 2026</td></tr>
-<tr><td><b>NVIDIA</b></td><td>Fundamentals of Deep Learning, 2025</td></tr>
-<tr><td><b>MongoDB</b></td><td>MongoDB Basics for Students, 2025</td></tr>
-</table>
+#### 🛡️ AI Real-Time Weapon Detection
+*Built with OpenCV & YOLOv8*
+- Developed an AI-powered system designed to identify weapons from live security camera feeds.
+- Programmed instant real-time alert notifications to optimize response times during threat detection.
 
-<br>
+#### 🏥 TakeCare HMS
+*Built with Supabase, TypeScript, and React*
+- Engineered a full-scale Hospital Management System providing daily nutrition tracking and healthcare analytics.
+- Features secure portal mechanics allowing elderly users to book appointments smoothly and attend virtual consultation sessions.
 
-```
-$ git log --stats
-```
+#### 🍳 Mom's Kitchen QR Ordering Platform
+*Built with TypeScript, n8n Automation, and Supabase*
+- Architected a multi-modular restaurant automation product inspired by enterprise digital systems (KFC/Burger King).
+- Automated real-time backend workflows and live order updates to connect customer tables straight to kitchen monitors.
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF9C&icon_color=39FF9C&text_color=6E7681&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF9C&text_color=6E7681&hide_title=true" />
+### 📈 GitHub Statistics
 
-<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TharaneeshJ's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+---
 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=90&section=footer&text=tharaneeshj%40gmail.com%20%20%C2%B7%20%20linkedin.com%2Fin%2Ftharaneeshj%20%20%C2%B7%20%20tharaneeshj.vercel.app&fontColor=6E7681&fontSize=13&fontAlignY=50" />
+⚡ *“Turning complex data structures into seamless human experiences.”*
