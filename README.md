@@ -67,25 +67,21 @@ I am a final-year **B.Tech student specializing in Artificial Intelligence and D
 
 ### 📈 GitHub Statistics
 
-<p align="left">
-  <!-- Dynamic Typing & Animation Stats Card -->
-  <a href="https://github.com/TharaneeshJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=false&vCenter=true&width=450&height=40&lines=Building+SaaS+Infrastructure;Analyzing+Complex+Data+Streams;Crafting+Interactive+Interfaces" alt="Typing SVG" />
-  </a>
-</p>
 
-<p align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=8&include_all_commits=true" height="195" alt="TharaneeshJ's GitHub Stats" />
-  &nbsp;&nbsp;
-  <!-- Top Languages Donut Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=8" height="195" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Streak Monitor -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TharaneeshJ&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF9C&icon_color=39FF9C&text_color=6E7681&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF9C&text_color=6E7681&hide_title=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=90&section=footer&text=tharaneeshj%40gmail.com%20%20%C2%B7%20%20linkedin.com%2Fin%2Ftharaneeshj%20%20%C2%B7%20%20tharaneeshj.vercel.app&fontColor=6E7681&fontSize=13&fontAlignY=50" />
 
 ---
 
