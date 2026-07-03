@@ -69,27 +69,17 @@ I am a final-year **B.Tech student specializing in Artificial Intelligence and D
 
 
 
+
+
 <div align="center">
 
-  <!-- Premium Neon Trophies Grid (Replaces the broken stats card) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=TharaneeshJ&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true" alt="TharaneeshJ's Trophies" />
-
-  <br><br>
-
-  <!-- Clean, Minimalist Language Metrics (Replaces top languages) -->
-  <img width="78%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharaneeshJ&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&icon_color=39FF9C&text_color=6E7681&hide_title=true" alt="Top Languages" />
-
-  <br><br>
-
-  <!-- Your High-Fidelity Streak Tracker (Kept exactly as you styled it) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharaneeshJ&hide_border=true&background=0D1117&ring=39FF9C&fire=39FF9C&currStreakLabel=39FF9C&sideLabels=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
 
 </div>
 
-<br><br>
+<br>
 
-<!-- Polished Premium Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=90&section=footer&text=tharaneeshj%40gmail.com%20%20%C2%B7%20%20linkedin.com%2Fin%2Ftharaneeshj%20%20%C2%B7%20%20tharaneeshj.vercel.app&fontColor=39FF9C&fontSize=13&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=90&section=footer&text=tharaneeshj%40gmail.com%20%20%C2%B7%20%20linkedin.com%2Fin%2Ftharaneeshj%20%20%C2%B7%20%20tharaneeshj.vercel.app&fontColor=6E7681&fontSize=13&fontAlignY=50" />
 
 
 ---
